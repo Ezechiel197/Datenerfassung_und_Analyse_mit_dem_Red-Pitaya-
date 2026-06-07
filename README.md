@@ -16,6 +16,6 @@ It features a dual-axis visualization to correlate hardware voltage readings wit
 
 ---
 
-## :man_technologist: **Autor**
+## :man_technologist: **Author**
 **Ezechiel Tonkeme**
 <img width="970" height="584" alt="image" src="https://github.com/user-attachments/assets/a30fa038-144e-42f3-a577-8265f673fa3d" />
